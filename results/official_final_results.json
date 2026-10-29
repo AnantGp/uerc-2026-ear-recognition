@@ -1,0 +1,32 @@
+{
+  "team": "Visionary Victors",
+  "organization": "Arogyapandit Private Limited, Jaipur, India",
+  "source": "Organizers' final-results email dated 2026-05-18, supplied by the team",
+  "provenance": "Transcribed organizer-reported results; not independently reproduced by this repository",
+  "ranking_basis": "Competition composite score; the unranked reference baseline is excluded",
+  "tracks": {
+    "T1": {
+      "rank": 7,
+      "ranked_teams": 10,
+      "VER@0.1%": 0.1607,
+      "VER@1%": 0.3484,
+      "EER": 0.2224,
+      "AUC": 0.8598,
+      "num_parameters": 1965217,
+      "reported_model_size_bytes": 7860872,
+      "score": 0.2802931436
+    },
+    "T2": {
+      "rank": 7,
+      "ranked_teams": 8,
+      "VER@0.1%": 0.1500,
+      "VER@1%": 0.3053,
+      "EER": 0.2534,
+      "AUC": 0.8286,
+      "mean_inference_seconds_per_image": 1.2357,
+      "std_inference_seconds_per_image": 0.0193,
+      "reported_total_time_seconds": 4324.85537,
+      "score": 0.1817302469
+    }
+  }
+}

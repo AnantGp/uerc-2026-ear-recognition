@@ -2,7 +2,7 @@
 
 **A compact metric-learning approach to ear verification, developed by Visionary Victors for the UERC 2026 accuracy, model-size, and edge-inference challenges.**
 
-**Team:** Gourav Gupta and Anant Gupta · Arogyapandit Private Limited, Jaipur, India
+**Team:** Gourav Gupta and Anant Gupta · Arogyapandit Private Limited, India
 
 **Challenge:** [UERC 2026](http://uerc.fri.uni-lj.si/) · **Participation:** Track 1 and Track 2
 
